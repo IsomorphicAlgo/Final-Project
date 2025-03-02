@@ -13,7 +13,7 @@
     </section>
     <section>
         <h2>Methodology</h2>
-        <p>Methodology details...</p>
+        <p>To begin we start by examining the LSTM Long Short Term MEmory structure. Then we move on to explore the possibility of using CycleGans for prediciton and anomoly detection.</p>
     </section>
     <footer>
         <p>Copyright information...</p>
